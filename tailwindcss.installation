@@ -1,0 +1,15 @@
+Tailwind Installation: 
+
+npx create react app add to cart app (put hypen in between)
+
+
+npm initialization
+Autoprefixer ; postcss
+
+postcss.config.css
+Tailwind.config.css
+
+
+
+
+Replace and import the functionalities and dependencies over app ; and get it done from the root element. 
